@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Anson K Santhosh**, a Cybersecurity Enthusiast pursuing a B.Tech in Computer Science. My goal is to inspire and contribute to a safer digital world.
+I'm Anson K Santhosh, a Cybersecurity Enthusiast and B.Tech Computer Science student passionate about making the digital world safer. I explore security challenges using tools like Burp Suite, Wireshark, Nmap, and Python, and love testing my skills in CTFs. My goal is to identify vulnerabilities, solve real-world problems, and inspire others in the cybersecurity community.
 
 <a href="https://www.linkedin.com/in/anson-k-santhosh-25224932a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
