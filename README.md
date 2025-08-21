@@ -51,7 +51,7 @@ I'm Anson K Santhosh, a Cybersecurity Enthusiast and B.Tech Computer Science stu
 <h2 id="contact" align=''> Contact </h2>
 
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/anson-k-santhosh-25224932a/)
-- 📧 Email: `ansonsanthosh7@gmail.com` (replace with your email)
+- 📧 Email: `ansonsanthosh7@gmail.com` 
 
 ---
 
