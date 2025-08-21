@@ -44,7 +44,7 @@ I'm Anson K Santhosh, a Cybersecurity Enthusiast and B.Tech Computer Science stu
 
 | **Project**      | **Description**                                                                                  |
 |------------------|--------------------------------------------------------------------------------------------------|
-| **[P** | A multithreaded Python port scanner with color-coded terminal output, service detection, progress tracking, and export to file. Supports scanning other virtual machines. |
+| **[Python Port Scanner](https://github.com/loki533/Python-port-scanner)** | A multithreaded Python port scanner with color-coded terminal output, service detection, progress tracking, and export to file. Supports scanning other virtual machines. |
 
 ---
 
